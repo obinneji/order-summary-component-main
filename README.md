@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/obinneji/order-summary-component-main/)
+- [Live Site URL](https://Obinneji.github.io/order-summary-component-main/)
 
 ## My process
 
